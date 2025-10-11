@@ -50,3 +50,12 @@ test('has title', async ({ page, context }) => {
   await hrmPage.screenshot({path: 'screenshots/tab2-hrm.png'})
   
 });
+
+
+// echo "# PW_TS" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/nhnhuanh/PW_TS.git
+// git push -u origin maingo
